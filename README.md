@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Danang+Siseka;A+Tech+Enthusiast;Building+Automation;Student+at+SMANISDA" alt="Typing SVG" /></h1>
+  
+  <p align="center">
+    <i>"Every successful 'run' is one step closer to automating the ecosystem."</i>
+  </p>
 
-<!--
-**danangsiseka/danangsiseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p align="center">
+    <img src="https://img.shields.io/badge/Smanisda-Student-00F2FE?style=for-the-badge&logo=education&logoColor=black" />
+    <img src="https://img.shields.io/badge/Age-15-FFD700?style=for-the-badge&logo=target&logoColor=black" />
+  </p>
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 The Big Why
+Saya percaya bahwa teknologi bukan sekadar alat, melainkan kebutuhan untuk menciptakan efisiensi. Fokus saya adalah membangun **ekosistem otomatis** yang memudahkan kehidupan sehari-hari. Bagiku, pemrograman adalah jembatan antara ide dan kenyataan.
+
+---
+
+### 🛠️ Tech Stack & Tools
+Membangun logika dengan presisi dan kerapian.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+- **C++:** Menguasai fundamental logika, manipulasi variabel, dan sistem manajemen data sederhana (CRUD-like).
+- **Python:** Sedang mendalami struktur perulangan (`while`) dan otomatisasi skrip.
+
+---
+
+### 🚀 Highlight Projects
+Berikut adalah jejak perjalanan logika yang telah saya bangun:
+
+* **💳 Digital KTP Generator (C++)** Sistem manajemen data penduduk dengan format rapi. Fitur: Input, Search, Display, dan Delete menggunakan logika *Nested IF*.
+* **🛒 Cashier Simulation - "Indomaret Logic" (C++)** Program kasir kompleks dengan 15+ variabel. Menangani kalkulasi harga, input pembayaran, hingga logika kembalian/uang kurang secara akurat.
+* **📐 Math Solver (C++)** Kalkulator geometri interaktif untuk menghitung bangun datar dan ruang secara simultan.
+
+---
+
+### 📈 Currently Learning
+> **Current Goal:** Membangun sistem **Interactive Quiz** dengan topik dinamis menggunakan logika `IF-ELSE` yang lebih kompleks di C++.
+
+---
+
+### 📫 Connect With Me
+Mari berdiskusi tentang teknologi, otomasi, atau kolaborasi pendidikan.
+
+<p align="left">
+<a href="https://medium.com/@username_kamu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://sidoarjo.academia.edu/DanangSiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danang's GitHub Stats" />
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=footer" />
+</p>
