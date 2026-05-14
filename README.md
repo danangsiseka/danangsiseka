@@ -48,7 +48,7 @@ Mari berdiskusi tentang teknologi, otomasi, atau kolaborasi pendidikan.
 
 <p align="left">
 <a href="https://id.quora.com/profile/Danang-Siseka"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" /></a>
-<a href="https://sidoarjo.academia.edu/danangsiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
+<a href="https://independent.academia.edu/RasyaDanangKurniaSiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
 <a href="https://medium.com/@danangsiseka"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
