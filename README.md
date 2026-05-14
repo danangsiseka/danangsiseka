@@ -51,12 +51,12 @@ Berikut adalah jejak perjalanan logika yang telah saya bangun:
 Mari berdiskusi tentang teknologi, otomasi, atau kolaborasi pendidikan.
 
 <p align="left">
-<a href="https://medium.com/@username_kamu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://medium.com/@danangsiseka"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://sidoarjo.academia.edu/DanangSiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username_kamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danang's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danangsiseka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Danang's GitHub Stats" />
 </div>
 
 <p align="center">
