@@ -7,7 +7,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Smanisda-Student-00F2FE?style=for-the-badge&logo=education&logoColor=black" />
-    <img src="https://img.shields.io/badge/Age-15-FFD700?style=for-the-badge&logo=target&logoColor=black" />
+    <img src="https://img.shields.io/badge/Age-15-00F2FE?style=for-the-badge&logo=target&logoColor=black" />
   </p>
 </div>
 
@@ -25,19 +25,15 @@ Membangun logika dengan presisi dan kerapian.
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
-- **C++:** Menguasai fundamental logika, manipulasi variabel, dan sistem manajemen data sederhana (CRUD-like).
-- **Python:** Sedang mendalami struktur perulangan (`while`) dan otomatisasi skrip.
 
 ---
 
 ### 🚀 Highlight Projects
 Berikut adalah jejak perjalanan logika yang telah saya bangun:
 
-* **💳 Digital KTP Generator (C++)** Sistem manajemen data penduduk dengan format rapi. Fitur: Input, Search, Display, dan Delete menggunakan logika *Nested IF*.
-* **🛒 Cashier Simulation - "Indomaret Logic" (C++)** Program kasir kompleks dengan 15+ variabel. Menangani kalkulasi harga, input pembayaran, hingga logika kembalian/uang kurang secara akurat.
+* **💳 Digital KTP Generator (C++)** Sistem manajemen data penduduk dengan format rapi. Fitur: Input, Search, Display, dan Delete.
+* **🛒 Cashier Simulation (C++)** Program kasir kompleks dengan 15+ variabel, kalkulasi diskon, dan logika kembalian.
 * **📐 Math Solver (C++)** Kalkulator geometri interaktif untuk menghitung bangun datar dan ruang secara simultan.
 
 ---
@@ -51,8 +47,9 @@ Berikut adalah jejak perjalanan logika yang telah saya bangun:
 Mari berdiskusi tentang teknologi, otomasi, atau kolaborasi pendidikan.
 
 <p align="left">
+<a href="https://id.quora.com/profile/Danang-Siseka"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" /></a>
+<a href="https://sidoarjo.academia.edu/danangsiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
 <a href="https://medium.com/@danangsiseka"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://sidoarjo.academia.edu/DanangSiseka"><img src="https://img.shields.io/badge/Academia.edu-212121?style=for-the-badge&logo=academia&logoColor=white" /></a>
 </p>
 
 <div align="center">
