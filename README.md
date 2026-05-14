@@ -14,7 +14,7 @@
 ---
 
 ### 🔭 The Big Why
-Saya percaya bahwa teknologi bukan sekadar alat, melainkan kebutuhan untuk menciptakan efisiensi. Fokus saya adalah membangun **ekosistem otomatis** yang memudahkan kehidupan sehari-hari. Bagiku, pemrograman adalah jembatan antara ide dan kenyataan.
+Saya percaya bahwa teknologi bukan sekadar alat, melainkan kebutuhan untuk menciptakan efisiensi bagi kehidupan. Fokus saya adalah membangun **ekosistem otomatis** yang memudahkan kehidupan sehari-hari. Bagi saya, pemrograman adalah jembatan antara ide dan kenyataan.
 
 ---
 
@@ -32,9 +32,9 @@ Membangun logika dengan presisi dan kerapian.
 ### 🚀 Highlight Projects
 Berikut adalah jejak perjalanan logika yang telah saya bangun:
 
-* **💳 Digital KTP Generator (C++)** Sistem manajemen data penduduk dengan format rapi. Fitur: Input, Search, Display, dan Delete.
-* **🛒 Cashier Simulation (C++)** Program kasir kompleks dengan 15+ variabel, kalkulasi diskon, dan logika kembalian.
-* **📐 Math Solver (C++)** Kalkulator geometri interaktif untuk menghitung bangun datar dan ruang secara simultan.
+* **Digital KTP Generator (C++)** Sistem manajemen data penduduk dengan format rapi. Fitur: Input, Search, Display, dan Delete.
+* **Cashier Simulation (C++)** Program kasir kompleks dengan 15+ variabel, kalkulasi diskon, dan logika kembalian.
+* **Math Solver (C++)** Kalkulator geometri interaktif untuk menghitung bangun datar dan ruang secara simultan.
 
 ---
 
@@ -44,7 +44,7 @@ Berikut adalah jejak perjalanan logika yang telah saya bangun:
 ---
 
 ### 📫 Connect With Me
-Mari berdiskusi tentang teknologi, otomasi, atau kolaborasi pendidikan.
+Mari berdiskusi tentang teknologi, topik ringan, sampai kolaborasi pendidikan.
 
 <p align="left">
 <a href="https://id.quora.com/profile/Danang-Siseka"><img src="https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white" /></a>
